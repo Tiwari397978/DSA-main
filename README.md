@@ -1,5 +1,5 @@
 # DSA-Series
-Hello Jee,
+Hello,
 
 This repo is for the students for easy access to all the programs.
 
